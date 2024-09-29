@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperMod on Навчальні матеріали</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in PaperMod on Навчальні матеріали</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>uk-UA</language>
     <lastBuildDate>Sat, 28 Sep 2024 21:35:17 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Економіка будівництва</title>
-      <link>//localhost:1313/posts/eknomiks/</link>
+      <link>http://localhost:1313/posts/eknomiks/</link>
       <pubDate>Fri, 27 Sep 2024 21:35:17 +0300</pubDate>
-      <guid>//localhost:1313/posts/eknomiks/</guid>
+      <guid>http://localhost:1313/posts/eknomiks/</guid>
       <description>&lt;h2 id=&#34;конспект-лекцій&#34;&gt;Конспект лекцій&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Будівельна техніка. Гідравлічні машини</title>
-      <link>//localhost:1313/posts/bud-tecnix-gidro-mash/</link>
+      <link>http://localhost:1313/posts/bud-tecnix-gidro-mash/</link>
       <pubDate>Sat, 28 Sep 2024 21:35:17 +0300</pubDate>
-      <guid>//localhost:1313/posts/bud-tecnix-gidro-mash/</guid>
+      <guid>http://localhost:1313/posts/bud-tecnix-gidro-mash/</guid>
       <description>&lt;p&gt;lorem 10&lt;/p&gt;</description>
     </item>
     <item>
       <title>Гідравлічні машини. Будівельна техніка</title>
-      <link>//localhost:1313/posts/gidro-mash-bud-tehnix/</link>
+      <link>http://localhost:1313/posts/gidro-mash-bud-tehnix/</link>
       <pubDate>Sat, 28 Sep 2024 21:35:17 +0300</pubDate>
-      <guid>//localhost:1313/posts/gidro-mash-bud-tehnix/</guid>
+      <guid>http://localhost:1313/posts/gidro-mash-bud-tehnix/</guid>
       <description>&lt;p&gt;lorem 10&lt;/p&gt;</description>
     </item>
     <item>
       <title>Будівельна техніка</title>
-      <link>//localhost:1313/posts/bud-tehnika/</link>
+      <link>http://localhost:1313/posts/bud-tehnika/</link>
       <pubDate>Fri, 20 Sep 2024 21:35:17 +0300</pubDate>
-      <guid>//localhost:1313/posts/bud-tehnika/</guid>
+      <guid>http://localhost:1313/posts/bud-tehnika/</guid>
       <description></description>
     </item>
   </channel>

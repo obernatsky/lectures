@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/eknomiks/</loc>
+    <loc>http://localhost:1313/posts/eknomiks/</loc>
     <lastmod>2024-09-27T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/bud-tecnix-gidro-mash/</loc>
+    <loc>http://localhost:1313/posts/bud-tecnix-gidro-mash/</loc>
     <lastmod>2024-09-28T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-28T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/gidro-mash-bud-tehnix/</loc>
+    <loc>http://localhost:1313/posts/gidro-mash-bud-tehnix/</loc>
     <lastmod>2024-09-28T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-28T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/bud-tehnika/</loc>
+    <loc>http://localhost:1313/posts/bud-tehnika/</loc>
     <lastmod>2024-09-20T21:35:17+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/lectures/</loc>
+    <loc>http://localhost:1313/lectures/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/lectures/economics-of-construction/lect-1/</loc>
+    <loc>http://localhost:1313/lectures/economics-of-construction/lect-1/</loc>
   </url>
 </urlset>
