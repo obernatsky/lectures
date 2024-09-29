@@ -1,9 +1,11 @@
-baseURL: "https://obernatsky.github.io"
+baseURL: "https://obernatsky.github.io/"
 languageCode: uk-UA
 #languageCode: en-us
 title: Навчальні матеріали
 theme: "PaperMod"
-buildDrafts: true # Чернетки також будуть опубліковані
+#buildDrafts: true # Чернетки також будуть опубліковані
+relativeURLs: true
+canonifyURLs: true
 
 params:
   math: 
