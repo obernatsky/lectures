@@ -1,0 +1,43 @@
+baseURL: 
+languageCode: uk-UA
+#languageCode: en-us
+title: Навчальні матеріали
+theme: "PaperMod"
+buildDrafts: true # Чернетки також будуть опубліковані
+
+params:
+  math: 
+    enable: true
+    mathjax: true
+    mathjaxConfig: "TeX-AMS-MML_HTMLorMML" # optional, change if needed
+
+  ShowReadingTime: false
+  ShowBreadCrumbs: false
+  homeInfoParams:
+    Title: "Конспекти лекцій та інші навчальні матеріали"
+    Content: >
+      👋 На сайті розміщені навчальні матеріали з предметів
+      
+menu:
+  main:
+    - indentifier: categories
+      name: Категорії
+      url: /categories/
+      weight: 30
+    
+    - indentifier: tags
+      name: Теги
+      url: /tags/
+      weight: 20
+
+    - indentifier: archives
+      name: Архіви
+      url: /archives/
+      weight: 90
+
+
+
+    - indentifier: lectures
+      name: Лекції
+      url: /lectures/
+      weight: 10
