@@ -4,8 +4,8 @@ languageCode: uk-UA
 title: Навчальні матеріали
 theme: "PaperMod"
 #buildDrafts: true # Чернетки також будуть опубліковані
-relativeURLs: true
-canonifyURLs: true
+#relativeURLs: true
+#canonifyURLs: true
 
 params:
   math: 
