@@ -3,10 +3,6 @@ languageCode: uk-UA
 #languageCode: en-us
 title: Навчальні матеріали
 theme: "PaperMod"
-#buildDrafts: true # Чернетки також будуть опубліковані
-#relativeURLs: true
-#canonifyURLs: true
-
 params:
   math: 
     enable: true
