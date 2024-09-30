@@ -1,6 +1,6 @@
 ---
 title: "Трудові ресурси будівельної організації. Кадри будівельної організації"
-url: /lectures/ekb/trud-resursy
+url: /ekb/trud-resursy
 ---
 
 ## План
