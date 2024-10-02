@@ -5,4 +5,4 @@ draft = false
 weight = 10
 +++
 
-lorem 10
+lorem 12
